@@ -1,0 +1,12 @@
+[2022-06-06T04:33:05.089Z] Validating found git in: git
+[2022-06-06T04:33:05.161Z] Using git 2.25.1 from git
+[2022-06-06T04:33:05.175Z] > git rev-parse --show-toplevel [4ms]
+[2022-06-06T04:33:05.190Z] > git rev-parse --git-dir --git-common-dir [6ms]
+[2022-06-06T04:33:05.193Z] Open repository: /home/ever/Desktop/dev/apps/inwork
+[2022-06-06T04:33:05.227Z] > git status -z -uall [25ms]
+[2022-06-06T04:33:05.237Z] > git symbolic-ref --short HEAD [1ms]
+[2022-06-06T04:33:05.245Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+[2022-06-06T04:33:05.265Z] > git remote --verbose [2ms]
+[2022-06-06T04:33:05.266Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [13ms]
+[2022-06-06T04:33:05.819Z] > git config --get commit.template [11ms]
+[2022-06-06T04:33:06.359Z] > git check-ignore -v -z --stdin [1ms]

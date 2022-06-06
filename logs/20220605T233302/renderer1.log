@@ -1,0 +1,5 @@
+[2022-06-05 23:33:03.942] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.filesToScan'. This property is already registered.
+[2022-06-05 23:33:03.942] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.showNotifications'. This property is already registered.
+[2022-06-05 23:33:03.942] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.doubleQuotes'. This property is already registered.
+[2022-06-05 23:33:03.943] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.spaceBetweenBraces'. This property is already registered.
+[2022-06-05 23:33:03.944] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.autoComplete'. This property is already registered.

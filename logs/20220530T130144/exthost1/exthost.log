@@ -1,0 +1,864 @@
+[2022-05-30 13:01:46.337] [exthost] [info] Extension host with pid 6248 started
+[2022-05-30 13:01:46.337] [exthost] [info] Skipping acquiring lock for /home/ever/.config/Code/User/workspaceStorage/866397713407efb3b9ad23066c1b8150.
+[2022-05-30 13:01:46.433] [exthost] [info] ExtensionService#_doActivateExtension capaj.vscode-exports-autocomplete, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:46.828] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:46.854] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:47.106] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:47.110] [exthost] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:47.132] [exthost] [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-30 13:01:47.350] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-30 13:01:47.365] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.367] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-30 13:01:47.369] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.372] [exthost] [info] ExtensionService#_doActivateExtension AiryShift.spaces-inside-braces, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.374] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.389] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.391] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.399] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.403] [exthost] [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.404] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.405] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.420] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.454] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.457] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.537] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-05-30 13:01:47.768] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.790] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-30 13:01:47.909] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 13:01:47.912] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-30 13:01:48.131] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-30 13:01:48.537] [exthost] [info] Eager extensions activated
+[2022-05-30 13:01:48.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:01:48.549] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:01:48.553] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:01:48.567] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:01:48.613] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-30 13:09:52.713] [exthost] [info] ExtensionService#_doActivateExtension styled-components.vscode-styled-components, startup: false, activationEvent: 'onCommand:extension.insertColonOrSemiColon'
+[2022-05-30 13:13:43.850] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:13:43.857] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:17:20.005] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:17:20.012] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:20:39.515] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:20:39.516] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:20:46.954] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:20:46.954] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:20:47.354] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:20:47.355] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:29:08.314] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 13:29:08.327] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 13:34:30.504] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:30.505] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:30.548] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-30 13:34:31.085] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:31.085] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:31.520] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:31.520] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:32.245] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:32.245] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:33.523] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:34:33.523] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:35.815] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:35.816] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:37.632] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:37.632] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:38.713] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 13:45:38.713] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:18:08.700] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:18:08.701] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:19:16.309] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:19:16.309] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:19:30.087] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:19:30.087] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:20:00.270] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:20:00.270] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:20:38.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:20:38.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:21:03.037] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:21:03.037] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:21:28.890] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:21:28.890] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:32.592] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:32.594] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:40.010] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:40.010] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:46.783] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:27:46.783] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:28:52.454] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:28:52.454] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:29:38.404] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:29:38.404] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:35:06.848] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:35:06.849] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:38:35.439] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:38:35.440] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:38:36.050] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:38:36.050] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:39:03.294] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:39:03.294] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:39:07.697] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:39:07.698] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:40:20.862] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:40:20.862] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:40:22.961] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:40:22.961] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:11.260] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:11.262] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:12.059] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:48:12.059] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:58:37.654] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:58:37.655] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:58:40.279] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:58:40.279] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:13.950] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:13.950] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:16.074] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:16.074] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:18.359] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:18.359] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:35.978] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:35.978] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:36.715] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:36.715] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:37.484] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:37.484] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:37.649] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:37.649] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:39.834] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:39.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:44.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 14:59:44.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:31:04.398] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:31:04.399] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:31:05.043] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:31:05.043] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:33:24.624] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:33:24.625] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:34:40.782] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 15:34:40.782] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:19:54.986] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:19:54.986] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:44:57.492] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:57.493] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:44:57.671] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:57.674] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:44:57.852] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:57.853] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:44:58.023] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:58.023] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:44:58.204] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:58.205] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:44:58.816] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:44:58.816] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:45:09.301] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:45:09.303] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 16:49:14.328] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:49:14.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:52:09.884] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:52:09.885] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:52:14.129] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:52:14.129] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 16:52:21.708] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 16:52:21.725] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 17:05:34.500] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 17:05:34.511] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 17:08:57.926] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:08:57.927] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:26.539] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:26.539] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:30.460] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:30.460] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:39.832] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:39.833] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:13:45.607] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 17:13:45.609] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 17:29:30.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:29:30.865] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:45:04.903] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 17:45:04.905] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:03:57.752] [exthost] [error] [OfHumanBondage.react-proptypes-intellisense] provider FAILED
+[2022-05-30 18:03:57.755] [exthost] [error] TypeError: Cannot read properties of undefined (reading '0')
+    at PropTypesCompletionItemProvider.isReactComponent (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:29:28)
+    at PropTypesCompletionItemProvider.<anonymous> (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:69:45)
+    at Generator.next (<anonymous>)
+    at /home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:7:71
+    at new Promise (<anonymous>)
+    at __awaiter (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:3:12)
+    at PropTypesCompletionItemProvider.provideCompletionItems (/home/ever/.vscode/extensions/ofhumanbondage.react-proptypes-intellisense-1.0.3/out/src/PropTypesCompletionItemProvider.js:67:16)
+    at Q.provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:111153)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135870
+    at we._withAdapter (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:126001)
+    at we.$provideCompletionItems (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:135846)
+    at s._doInvokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13828)
+    at s._invokeHandler (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:13512)
+    at s._receiveRequest (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:12121)
+    at s._receiveOneMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:10843)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:86:8949
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34426
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at l.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:19001)
+    at r._receiveMessage (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:23582)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:21116
+    at m.invoke (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:145)
+    at E.deliver (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:2265)
+    at v.fire (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:58:1843)
+    at v.acceptChunk (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:15832)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:66:14962
+    at Socket.R (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:13798)
+    at Socket.emit (node:events:390:28)
+    at Socket.emit (node:domain:475:12)
+    at addChunk (node:internal/streams/readable:315:12)
+    at readableAddChunk (node:internal/streams/readable:289:9)
+    at Socket.Readable.push (node:internal/streams/readable:228:10)
+    at Pipe.onStreamRead (node:internal/stream_base_commons:199:23)
+[2022-05-30 18:44:50.250] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:44:50.263] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:44:50.671] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:44:50.672] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:44:51.048] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:44:51.048] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-30 18:45:53.685] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-30 18:45:54.005] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at m._deactivate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:13083)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10642
+    at Array.map (<anonymous>)
+    at m._deactivateAll (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10630)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:11010)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at l (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36401)
+    at Socket.<anonymous> (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34097)
+    at Socket.emit (node:events:402:35)
+    at Socket.emit (node:domain:475:12)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-05-30 18:45:54.708] [exthost] [info] Extension host with pid 6248 exiting with code 0

@@ -1,0 +1,50 @@
+[2022-05-29 12:55:37.833] [sharedprocess] [info] Starting worker process with pid 3111 (type: fileWatcher, window: 1).
+[2022-05-29 12:55:37.858] [sharedprocess] [info] Deleted from disk tabnine.tabnine-vscode /home/ever/.vscode/extensions/tabnine.tabnine-vscode-3.5.51
+[2022-05-29 12:57:52.506] [sharedprocess] [info] Starting worker process with pid 4297 (type: fileWatcher, window: 3).
+[2022-05-29 15:23:43.257] [sharedprocess] [info] Getting Manifest... viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:43.263] [sharedprocess] [info] Installing extension: viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:44.580] [sharedprocess] [info] Downloaded extension: viktorzetterstrom.non-breaking-space-highlighter /home/ever/.config/Code/CachedExtensionVSIXs/viktorzetterstrom.non-breaking-space-highlighter-0.0.3
+[2022-05-29 15:23:44.600] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.473eb889-8459-448c-83d7-e5aaf2278f59: viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:44.602] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/viktorzetterstrom.non-breaking-space-highlighter-0.0.3
+[2022-05-29 15:23:44.603] [sharedprocess] [info] Extracting completed. viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:44.605] [sharedprocess] [info] Extension installed successfully: viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:47.626] [sharedprocess] [info] Uninstalling extension: viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:23:47.955] [sharedprocess] [info] Successfully uninstalled extension: viktorzetterstrom.non-breaking-space-highlighter
+[2022-05-29 15:25:27.345] [sharedprocess] [info] Getting Manifest... esbenp.prettier-vscode
+[2022-05-29 15:25:27.349] [sharedprocess] [info] Installing extension: esbenp.prettier-vscode
+[2022-05-29 15:25:29.069] [sharedprocess] [info] Downloaded extension: esbenp.prettier-vscode /home/ever/.config/Code/CachedExtensionVSIXs/esbenp.prettier-vscode-9.5.0
+[2022-05-29 15:25:29.381] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.af347a99-38e0-4bcb-9824-1fd19a1c0958: esbenp.prettier-vscode
+[2022-05-29 15:25:29.386] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/esbenp.prettier-vscode-9.5.0
+[2022-05-29 15:25:29.388] [sharedprocess] [info] Extracting completed. esbenp.prettier-vscode
+[2022-05-29 15:25:29.389] [sharedprocess] [info] Extension installed successfully: esbenp.prettier-vscode
+[2022-05-29 15:27:20.707] [sharedprocess] [info] Getting Manifest... aliariff.auto-add-brackets
+[2022-05-29 15:27:20.712] [sharedprocess] [info] Installing extension: aliariff.auto-add-brackets
+[2022-05-29 15:27:22.125] [sharedprocess] [info] Downloaded extension: aliariff.auto-add-brackets /home/ever/.config/Code/CachedExtensionVSIXs/aliariff.auto-add-brackets-0.12.0
+[2022-05-29 15:27:22.137] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.5251c29a-26a2-48d5-bb8a-45d94cc30080: aliariff.auto-add-brackets
+[2022-05-29 15:27:22.138] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/aliariff.auto-add-brackets-0.12.0
+[2022-05-29 15:27:22.139] [sharedprocess] [info] Extracting completed. aliariff.auto-add-brackets
+[2022-05-29 15:27:22.140] [sharedprocess] [info] Extension installed successfully: aliariff.auto-add-brackets
+[2022-05-29 15:27:41.031] [sharedprocess] [info] Getting Manifest... rafamel.subtle-brackets
+[2022-05-29 15:27:41.037] [sharedprocess] [info] Installing extension: rafamel.subtle-brackets
+[2022-05-29 15:27:43.911] [sharedprocess] [info] Downloaded extension: rafamel.subtle-brackets /home/ever/.config/Code/CachedExtensionVSIXs/rafamel.subtle-brackets-3.0.0
+[2022-05-29 15:27:44.140] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.f896e018-8123-43ba-8ced-58e3556449fd: rafamel.subtle-brackets
+[2022-05-29 15:27:44.143] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/rafamel.subtle-brackets-3.0.0
+[2022-05-29 15:27:44.145] [sharedprocess] [info] Extracting completed. rafamel.subtle-brackets
+[2022-05-29 15:27:44.145] [sharedprocess] [info] Extension installed successfully: rafamel.subtle-brackets
+[2022-05-29 15:28:05.154] [sharedprocess] [info] Getting Manifest... onlylys.leaper
+[2022-05-29 15:28:05.160] [sharedprocess] [info] Installing extension: onlylys.leaper
+[2022-05-29 15:28:07.537] [sharedprocess] [info] Downloaded extension: onlylys.leaper /home/ever/.config/Code/CachedExtensionVSIXs/onlylys.leaper-0.10.5
+[2022-05-29 15:28:07.545] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.b80b9c38-dba5-4389-8156-2b7e4d94144c: onlylys.leaper
+[2022-05-29 15:28:07.548] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/onlylys.leaper-0.10.5
+[2022-05-29 15:28:07.550] [sharedprocess] [info] Extracting completed. onlylys.leaper
+[2022-05-29 15:28:07.552] [sharedprocess] [info] Extension installed successfully: onlylys.leaper
+[2022-05-29 15:28:49.099] [sharedprocess] [info] Uninstalling extension: onlylys.leaper
+[2022-05-29 15:28:49.528] [sharedprocess] [info] Successfully uninstalled extension: onlylys.leaper
+[2022-05-29 15:32:37.975] [sharedprocess] [info] Getting Manifest... airyshift.spaces-inside-braces
+[2022-05-29 15:32:37.983] [sharedprocess] [info] Installing extension: airyshift.spaces-inside-braces
+[2022-05-29 15:32:39.523] [sharedprocess] [info] Downloaded extension: airyshift.spaces-inside-braces /home/ever/.config/Code/CachedExtensionVSIXs/airyshift.spaces-inside-braces-0.4.0
+[2022-05-29 15:32:39.529] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.2dfd83a2-e092-4399-a459-9243da8a4238: airyshift.spaces-inside-braces
+[2022-05-29 15:32:39.531] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/airyshift.spaces-inside-braces-0.4.0
+[2022-05-29 15:32:39.533] [sharedprocess] [info] Extracting completed. airyshift.spaces-inside-braces
+[2022-05-29 15:32:39.534] [sharedprocess] [info] Extension installed successfully: airyshift.spaces-inside-braces
+[2022-05-29 16:44:49.333] [sharedprocess] [info] Worker process with pid 4297 terminated normally (type: fileWatcher, window: 3).

@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "inWork",
+    "slug": "inWork",
+    "version": "1.0.0",
+    "userInterfaceStyle": "dark",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+    "userInterfaceStyle": "dark",
+      "supportsTablet": true
+    },
+    "android": {
+    "userInterfaceStyle": "dark",
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#FFFFFF"
+
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}

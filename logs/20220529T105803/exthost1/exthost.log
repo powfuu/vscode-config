@@ -1,0 +1,38 @@
+[2022-05-29 10:58:05.646] [exthost] [info] Extension host with pid 5114 started
+[2022-05-29 10:58:05.646] [exthost] [info] Skipping acquiring lock for /home/ever/.config/Code/User/workspaceStorage/866397713407efb3b9ad23066c1b8150.
+[2022-05-29 10:58:05.744] [exthost] [info] ExtensionService#_doActivateExtension capaj.vscode-exports-autocomplete, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.095] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.129] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.384] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.390] [exthost] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.420] [exthost] [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 10:58:06.662] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-29 10:58:06.679] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.682] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-29 10:58:06.684] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.687] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.702] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.703] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.713] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.716] [exthost] [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.718] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.719] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.734] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.772] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.775] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-05-29 10:58:06.836] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-05-29 10:58:06.997] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-29 10:58:07.018] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-29 10:58:07.093] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-29 10:58:07.095] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-29 10:58:07.651] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-29 10:58:07.747] [exthost] [info] Eager extensions activated
+[2022-05-29 10:58:07.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 10:58:07.800] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 10:58:07.805] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 10:58:07.817] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 11:00:12.671] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2022-05-29 11:00:21.242] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-29 11:00:21.242] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-29 11:00:22.629] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-29 11:00:22.629] [exthost] [warning] TextEditor is closed/disposed

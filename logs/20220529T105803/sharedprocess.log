@@ -1,0 +1,8 @@
+[2022-05-29 10:58:06.344] [sharedprocess] [info] Starting worker process with pid 5167 (type: fileWatcher, window: 1).
+[2022-05-29 10:58:08.798] [sharedprocess] [info] Getting Manifest... tabnine.tabnine-vscode
+[2022-05-29 10:58:09.295] [sharedprocess] [info] Installing extension: tabnine.tabnine-vscode
+[2022-05-29 10:58:10.484] [sharedprocess] [info] Downloaded extension: tabnine.tabnine-vscode /home/ever/.config/Code/CachedExtensionVSIXs/tabnine.tabnine-vscode-3.5.53
+[2022-05-29 10:58:10.509] [sharedprocess] [info] Extracted extension to /home/ever/.vscode/extensions/.806214ff-31de-46ee-abdb-bcbf9c029db6: tabnine.tabnine-vscode
+[2022-05-29 10:58:10.511] [sharedprocess] [info] Renamed to /home/ever/.vscode/extensions/tabnine.tabnine-vscode-3.5.53
+[2022-05-29 10:58:10.512] [sharedprocess] [info] Extracting completed. tabnine.tabnine-vscode
+[2022-05-29 10:58:10.515] [sharedprocess] [info] Extension installed successfully: tabnine.tabnine-vscode

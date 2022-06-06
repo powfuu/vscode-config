@@ -1,0 +1,16 @@
+[2022-05-30T04:35:26.524Z] Validating found git in: git
+[2022-05-30T04:35:26.556Z] Using git  from git
+[2022-05-30T04:35:26.621Z] > git rev-parse --show-toplevel [50ms]
+[2022-05-30T04:35:26.648Z] > git rev-parse --git-dir --git-common-dir [4ms]
+[2022-05-30T04:35:26.651Z] Open repository: /home/ever/Desktop/dev/apps/support-decisions
+[2022-05-30T04:35:26.776Z] > git status -z -uall [107ms]
+[2022-05-30T04:35:26.895Z] > git symbolic-ref --short HEAD [108ms]
+[2022-05-30T04:35:27.038Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [130ms]
+[2022-05-30T04:35:27.081Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [26ms]
+[2022-05-30T04:35:27.101Z] > git remote --verbose [28ms]
+[2022-05-30T04:35:27.114Z] > git config --get commit.template [2ms]
+[2022-05-30T04:35:27.442Z] > git check-ignore -v -z --stdin [69ms]
+[2022-05-30T04:35:27.519Z] > git show --textconv :resources/dashboard/dashboard.js [31ms]
+[2022-05-30T04:35:27.519Z] > git show --textconv :AppComponents.js [21ms]
+[2022-05-30T04:35:27.519Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/support-decisions/resources/dashboard/dashboard.js [11ms]
+[2022-05-30T04:35:27.521Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/support-decisions/AppComponents.js [3ms]

@@ -1,0 +1,71 @@
+[2022-05-29 12:57:53.164] [exthost] [info] Extension host with pid 4284 started
+[2022-05-29 12:57:53.164] [exthost] [info] Skipping acquiring lock for /home/ever/.config/Code/User/workspaceStorage/5f4eef60da1eab5e1ad46a7fa6a90b6c.
+[2022-05-29 12:57:53.380] [exthost] [info] ExtensionService#_doActivateExtension capaj.vscode-exports-autocomplete, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:53.640] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:53.665] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:53.905] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:53.909] [exthost] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:53.927] [exthost] [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-05-29 12:57:54.136] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-05-29 12:57:54.155] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.157] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-29 12:57:54.159] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.162] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.174] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.175] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.182] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.186] [exthost] [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.187] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.188] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.200] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.233] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.235] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.283] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-05-29 12:57:54.445] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.468] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-29 12:57:54.511] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-29 12:57:54.514] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-05-29 12:57:54.642] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-05-29 12:57:54.855] [exthost] [info] Eager extensions activated
+[2022-05-29 12:57:54.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 12:57:54.862] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 12:57:54.863] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 12:57:54.873] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 13:14:49.865] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-29 13:14:49.866] [exthost] [warning] TextEditor is closed/disposed
+[2022-05-29 15:23:44.651] [exthost] [info] ExtensionService#_doActivateExtension viktorzetterstrom.non-breaking-space-highlighter, startup: false, activationEvent: '*'
+[2022-05-29 15:25:29.551] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-29 15:27:22.356] [exthost] [info] ExtensionService#_doActivateExtension aliariff.auto-add-brackets, startup: false, activationEvent: '*'
+[2022-05-29 15:27:44.380] [exthost] [info] ExtensionService#_doActivateExtension rafamel.subtle-brackets, startup: false, activationEvent: '*'
+[2022-05-29 15:28:07.760] [exthost] [info] ExtensionService#_doActivateExtension OnlyLys.leaper, startup: false, activationEvent: '*'
+[2022-05-29 15:32:39.671] [exthost] [info] ExtensionService#_doActivateExtension AiryShift.spaces-inside-braces, startup: false, activationEvent: '*'
+[2022-05-29 16:44:48.988] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-05-29 16:44:49.235] [exthost] [error] An error occurred when deactivating the extension 'rafamel.subtle-brackets':
+[2022-05-29 16:44:49.337] [exthost] [error] TypeError: Cannot read properties of undefined (reading 'subscriptions')
+    at Object.deactivate (/home/ever/.vscode/extensions/rafamel.subtle-brackets-3.0.0/out/extension.js:42:13)
+    at m._deactivate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:13083)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10642
+    at Array.map (<anonymous>)
+    at m._deactivateAll (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10630)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:11010)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at l (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36401)
+    at Socket.<anonymous> (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34097)
+    at Socket.emit (node:events:402:35)
+    at Socket.emit (node:domain:475:12)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-05-29 16:44:50.699] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at m._deactivate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:13083)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10642
+    at Array.map (<anonymous>)
+    at m._deactivateAll (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10630)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:11010)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at l (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36401)
+    at Socket.<anonymous> (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34097)
+    at Socket.emit (node:events:402:35)
+    at Socket.emit (node:domain:475:12)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-05-29 16:44:50.712] [exthost] [info] Extension host with pid 4284 exiting with code 0

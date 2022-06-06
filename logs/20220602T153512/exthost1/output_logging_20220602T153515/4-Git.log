@@ -1,0 +1,16 @@
+[2022-06-02T19:35:17.269Z] Validating found git in: git
+[2022-06-02T19:35:17.334Z] Using git 2.25.1 from git
+[2022-06-02T19:35:17.360Z] > git rev-parse --show-toplevel [6ms]
+[2022-06-02T19:35:17.487Z] > git rev-parse --git-dir --git-common-dir [108ms]
+[2022-06-02T19:35:17.490Z] Open repository: /home/ever/Desktop/dev/apps/inwork
+[2022-06-02T19:35:17.727Z] > git status -z -uall [226ms]
+[2022-06-02T19:35:17.876Z] > git symbolic-ref --short HEAD [137ms]
+[2022-06-02T19:35:17.924Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [35ms]
+[2022-06-02T19:35:18.031Z] > git show --textconv :clientside/src/account/account.js [53ms]
+[2022-06-02T19:35:18.031Z] > git show --textconv :clientside/src/account/accountComponents.js [39ms]
+[2022-06-02T19:35:18.032Z] > git remote --verbose [89ms]
+[2022-06-02T19:35:18.032Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [99ms]
+[2022-06-02T19:35:18.077Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/inwork/clientside/src/account/accountComponents.js [59ms]
+[2022-06-02T19:35:18.078Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/inwork/clientside/src/account/account.js [73ms]
+[2022-06-02T19:35:18.082Z] > git config --get commit.template [6ms]
+[2022-06-02T19:35:18.669Z] > git check-ignore -v -z --stdin [6ms]

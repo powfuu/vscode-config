@@ -1,0 +1,102 @@
+import styled from 'styled-components'
+import { MaterialIcons } from '@expo/vector-icons';
+import { View,Text,Image,ScrollView } from 'react-native'
+
+export const ScrollViewScene = styled(ScrollView)`
+`
+export const PreferencesPopup = styled(View)`
+border-width: 1px;
+border-color:#fff;
+background-color: #fff;
+width: 300px;
+flex-direction: column;
+align-self: center;
+border-radius: 7px;
+margin-top:5%;
+padding:8px;
+padding-top:8px;
+padding-bottom:10px;
+padding-left:5%;
+`
+export const SearchView = styled(View)`
+flex-direction: row;
+`
+export const SearchIc = styled(MaterialIcons)`
+margin-top:1.75%;
+`
+export const PreferencesPopupTitle = styled(Text)`
+margin-top: 2.35%;
+margin-bottom:2%;
+font-weight: bold;
+font-size: 16.5px;
+margin-left:12px;
+`
+export const PreferencesPopupDescriptionView = styled(View)`
+flex-direction: column;
+`
+export const PreferencesPopupPreferencesView = styled(View)`
+flex-direction: column;
+margin-top:.75%;
+`
+export const PreferencesPopupDescription = styled(Text)`
+color:rgb(120,120,120);
+`
+export const PreferencesPopupPreferencesPopup = styled(View)`
+`
+export const PreferencesPopupPreferences = styled(Text)`
+color: rgb(80,80,80);
+margin-top:1%;
+font-size:13px;
+`
+export const AccountsContent = styled(View)`
+margin-top:8%;
+width: 100%;
+align-items: center;
+padding-bottom:8%;
+`
+export const AccountCard = styled(View)`
+background:white;
+width:80%;
+border-radius:8px;
+margin-bottom:6%;
+padding-bottom:5%;
+`
+export const AccountCardBanner = styled(Image)`
+height: 80px;
+width:100%;
+border-radius:6px;
+`
+export const AccountCardPic = styled(Image)`
+height:50px;
+width:50px;
+border-radius:100px;
+margin-top:-25px;
+margin-left:5%;
+`
+export const AccountCardName = styled(Text)`
+margin-left:5%;
+margin-top:1.5%;
+color:black;
+font-size:13px;
+`
+export const AccountCardProfession = styled(Text)`
+margin-left:5%;
+position:absolute;
+top:61%;
+margin-right:1%;
+right:0%;
+`
+export const AccountCardLocation = styled(Text)`
+margin-left:1.5%;
+color:#666;
+font-size:11.5px;
+margin-top:3.5%;
+`
+export const LocationIc = styled(MaterialIcons)`
+margin-left:3.5%;
+margin-top:2.5%;
+color:#000;
+`
+export const LocationView= styled(View)`
+flex-direction: row;
+`

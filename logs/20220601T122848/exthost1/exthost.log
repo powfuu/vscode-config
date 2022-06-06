@@ -1,0 +1,584 @@
+[2022-06-01 12:28:51.226] [exthost] [info] Extension host with pid 6195 started
+[2022-06-01 12:28:51.226] [exthost] [info] Skipping acquiring lock for /home/ever/.config/Code/User/workspaceStorage/5f4eef60da1eab5e1ad46a7fa6a90b6c.
+[2022-06-01 12:28:51.314] [exthost] [info] ExtensionService#_doActivateExtension capaj.vscode-exports-autocomplete, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:51.798] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.npm-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:51.826] [exthost] [info] ExtensionService#_doActivateExtension dsznajder.es7-react-js-snippets, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:52.040] [exthost] [info] ExtensionService#_doActivateExtension leizongmin.node-module-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:52.043] [exthost] [info] ExtensionService#_doActivateExtension NuclleaR.vscode-extension-auto-import, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:52.063] [exthost] [info] ExtensionService#_doActivateExtension OfHumanBondage.react-proptypes-intellisense, startup: false, activationEvent: 'onLanguage:javascript'
+[2022-06-01 12:28:52.361] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2022-06-01 12:28:52.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.381] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-06-01 12:28:52.385] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.388] [exthost] [info] ExtensionService#_doActivateExtension AiryShift.spaces-inside-braces, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.390] [exthost] [info] ExtensionService#_doActivateExtension christian-kohler.path-intellisense, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.405] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.406] [exthost] [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.416] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.420] [exthost] [info] ExtensionService#_doActivateExtension nowsci.glassit-linux, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.421] [exthost] [info] ExtensionService#_doActivateExtension sporiley.css-auto-prefix, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.423] [exthost] [info] ExtensionService#_doActivateExtension TabNine.tabnine-vscode, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.436] [exthost] [info] ExtensionService#_doActivateExtension vscodevim.vim, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.469] [exthost] [info] ExtensionService#_doActivateExtension wayou.vscode-todo-highlight, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.471] [exthost] [info] ExtensionService#_doActivateExtension Zignd.html-css-class-completion, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.528] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+[2022-06-01 12:28:52.749] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.783] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-06-01 12:28:52.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-01 12:28:52.824] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+[2022-06-01 12:28:53.080] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2022-06-01 12:28:53.539] [exthost] [info] Eager extensions activated
+[2022-06-01 12:28:53.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 12:28:53.555] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 12:28:53.558] [exthost] [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 12:28:53.569] [exthost] [info] ExtensionService#_doActivateExtension equinusocio.vsc-material-theme-icons, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 12:28:53.666] [exthost] [info] ExtensionService#_doActivateExtension esbenp.prettier-vscode, startup: false, activationEvent: 'onStartupFinished'
+[2022-06-01 12:30:33.269] [exthost] [info] ExtensionService#_doActivateExtension styled-components.vscode-styled-components, startup: false, activationEvent: 'onCommand:extension.insertColonOrSemiColon'
+[2022-06-01 12:43:25.005] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:43:25.007] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/p'
+[2022-06-01 12:43:26.002] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:43:26.002] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/proje'
+[2022-06-01 12:43:34.939] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:43:34.939] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/src/re'
+[2022-06-01 12:43:35.940] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:43:35.940] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/src/r'
+[2022-06-01 12:44:56.510] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:44:56.510] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/e'
+[2022-06-01 12:44:57.325] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:44:57.325] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/experie'
+[2022-06-01 12:45:08.157] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:08.158] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/n'
+[2022-06-01 12:45:09.206] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:09.206] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/nothi'
+[2022-06-01 12:45:09.391] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:09.391] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/nothin'
+[2022-06-01 12:45:09.505] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:09.505] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/nothing'
+[2022-06-01 12:45:10.586] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:10.586] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/nothing-t'
+[2022-06-01 12:45:11.455] [exthost] [error] [leizongmin.node-module-intellisense] provider FAILED
+[2022-06-01 12:45:11.455] [exthost] [error] Error: ENOENT: no such file or directory, scandir '/home/ever/Desktop/dev/apps/inwork/clientside/resources/nothing-to'
+[2022-06-01 14:42:27.412] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.413] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.559] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.559] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.684] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.684] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.777] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.777] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.881] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.881] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.947] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:27.947] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.024] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.024] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.082] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.082] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.160] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.160] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.208] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.209] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.277] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.278] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.343] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.343] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.455] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.455] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.594] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.594] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.656] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.656] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.735] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.735] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.799] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.799] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.867] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.867] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.908] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.908] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.985] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:28.985] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.083] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.083] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.135] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.135] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.191] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.191] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.279] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.279] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.348] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.348] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.426] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.426] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.477] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.477] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.684] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.684] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.727] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.727] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.804] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.804] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.858] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.858] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.963] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:29.963] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.014] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.014] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.106] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.107] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.172] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.172] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.239] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.239] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.293] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.293] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.381] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.381] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.439] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.439] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.509] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.509] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.711] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.711] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.847] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.847] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.920] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.920] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.990] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:30.990] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.075] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.076] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.182] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.182] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.257] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.258] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.375] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.375] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.473] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.473] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.536] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.597] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.597] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.661] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.661] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.748] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.748] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.839] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.839] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:31.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.045] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.045] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.092] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.093] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.168] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.168] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.214] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.214] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.283] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.283] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.410] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.410] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.482] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.482] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.606] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.606] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.686] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.686] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.734] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.734] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.835] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.888] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.888] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.967] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:32.967] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.020] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.020] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.104] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.104] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.142] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.142] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.225] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.225] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.271] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.271] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.339] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.339] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.378] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.378] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.462] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.462] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.520] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.520] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.586] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.586] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.634] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.634] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.735] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.735] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.831] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.831] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.889] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.889] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.943] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:33.943] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.029] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.029] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.087] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.087] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.199] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.199] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.280] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.280] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.329] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.399] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.399] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.440] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.440] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.526] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.526] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.579] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.579] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.683] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.683] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.736] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.736] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.806] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.806] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.879] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.879] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.946] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:34.946] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.029] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.029] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.122] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.122] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.187] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.187] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.260] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.260] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.301] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.301] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.387] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.387] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.449] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.449] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.514] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.514] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.560] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.560] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.644] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.644] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.717] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.717] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.818] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.818] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.920] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.920] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.989] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:35.989] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.063] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.063] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.100] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.100] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.178] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.178] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.224] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.224] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.299] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.299] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.343] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.343] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.418] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.418] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.477] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.477] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.531] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.531] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.592] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.592] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.668] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.668] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.720] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.720] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.791] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.791] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.872] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.872] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.955] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:36.955] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.028] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.028] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.106] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.106] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.150] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.150] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.234] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.234] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.281] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.281] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.346] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.346] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.388] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.388] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.471] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.471] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.526] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.526] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.611] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.693] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.693] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.773] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.774] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.838] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.838] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.912] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.912] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.955] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:37.955] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.051] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.051] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.111] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.111] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.178] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.178] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.219] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.219] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.299] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.300] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.357] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.357] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.433] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.433] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.474] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.474] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.554] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.554] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.645] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.646] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.707] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.707] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.766] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.766] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.832] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.832] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.905] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.905] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:38.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.025] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.025] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.107] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.107] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.170] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.171] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.239] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.239] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.289] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.289] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.370] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.370] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.416] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.416] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.519] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.561] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.651] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.651] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.706] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.707] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.770] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.771] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.809] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.809] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.887] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.888] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.937] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:39.937] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.004] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.004] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.057] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.058] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.141] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.141] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.194] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.194] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.256] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.256] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.299] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.299] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.378] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.378] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.434] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.434] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.503] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.504] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.569] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.569] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.669] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.669] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.723] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.723] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.784] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.784] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.898] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:40.898] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.002] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.002] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.101] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.101] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.156] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.209] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.209] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.294] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.294] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.349] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.349] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.406] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.406] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.448] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.448] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.532] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.532] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.635] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.635] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.691] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.691] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.742] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.742] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.826] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.826] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.896] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.896] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.953] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.953] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.992] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:41.992] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.077] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.077] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.147] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.147] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.200] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.200] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.244] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.244] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.321] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.321] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.382] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.382] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.431] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.431] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.478] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.478] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.560] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.560] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.671] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.671] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.734] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.734] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.779] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.779] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.859] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.860] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.921] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.921] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:42.983] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.022] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.023] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.103] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.103] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.164] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.164] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.218] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.218] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.271] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.271] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.351] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.351] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.416] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.416] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.466] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.466] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.502] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.502] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.588] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.588] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.666] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.666] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.733] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.733] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.778] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.778] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.864] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.915] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.915] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:43.973] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.026] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.026] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.112] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.112] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.170] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.170] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.227] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.227] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.276] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.276] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.362] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.362] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.434] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.434] [exthost] [warning] TextEditor is closed/disposed
+[2022-06-01 14:42:44.485] [exthost] [info] Extension host terminating: renderer closed the socket
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.526] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.527] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.885] [exthost] [error] TypeError: r.some is not a function
+    at Function.saveToDisk (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/src/register/register.ts:350:30)
+    at Object.e.deactivate (/home/ever/.vscode/extensions/vscodevim.vim-1.22.2/extension.ts:65:18)
+    at m._deactivate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:13083)
+    at /snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10642
+    at Array.map (<anonymous>)
+    at m._deactivateAll (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:10630)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:88:11010)
+    at m.terminate (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:92:620)
+    at l (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:36401)
+    at Socket.<anonymous> (/snap/code/97/usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:102:34097)
+    at Socket.emit (node:events:402:35)
+    at Socket.emit (node:domain:475:12)
+    at Pipe.<anonymous> (node:net:687:12)
+[2022-06-01 14:42:44.897] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.897] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.911] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.911] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.918] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:44.918] [exthost] [warning] {"name":"Canceled"}
+[2022-06-01 14:42:45.410] [exthost] [info] Extension host with pid 6195 exiting with code 0

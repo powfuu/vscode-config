@@ -1,0 +1,4 @@
+[2022-05-30 13:01:46.101] [sharedprocess] [error] RequestService#request (browser) - error https://az764295.vo.msecnd.net/extensions/marketplace.json {"name":"Offline"}
+[2022-05-30 13:01:46.654] [sharedprocess] [info] Starting worker process with pid 6297 (type: fileWatcher, window: 1).
+[2022-05-30 13:01:46.796] [sharedprocess] [info] Deleted from disk aliariff.auto-add-brackets /home/ever/.vscode/extensions/aliariff.auto-add-brackets-0.12.0
+[2022-05-30 13:01:46.798] [sharedprocess] [info] Deleted from disk rafamel.subtle-brackets /home/ever/.vscode/extensions/rafamel.subtle-brackets-3.0.0

@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "Support Decisions",
+    "slug": "support-decisions",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "icon": "./assets/iconapp-lastv.png",
+    "backgroundColor": "#121121",
+    "androidStatusBar": {
+      "backgroundColor": "#121121",
+      "barStyle": "light-content"
+    },
+    "splash": {
+      "image": "./assets/splashs.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121121"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+        "enableDangerousExperimentalLeanBuilds": true,
+      "softwareKeyboardLayoutMode": "pan",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon-app-lastv.png",
+        "backgroundColor": "#121121"
+      },
+      "package": "com.supportdecisions"
+    },
+    "web": {
+      "favicon": "./assets/faviconapp-lastv.png"
+    }
+  }
+}

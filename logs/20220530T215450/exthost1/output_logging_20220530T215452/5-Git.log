@@ -1,0 +1,17 @@
+[2022-05-31T01:54:53.893Z] Validating found git in: git
+[2022-05-31T01:54:53.985Z] Using git 2.25.1 from git
+[2022-05-31T01:54:54.021Z] > git rev-parse --show-toplevel [22ms]
+[2022-05-31T01:54:54.112Z] > git rev-parse --git-dir --git-common-dir [73ms]
+[2022-05-31T01:54:54.115Z] Open repository: /home/ever/Desktop/dev/apps/support-decisions
+[2022-05-31T01:54:54.153Z] > git status -z -uall [20ms]
+[2022-05-31T01:54:54.240Z] > git symbolic-ref --short HEAD [73ms]
+[2022-05-31T01:54:54.265Z] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [13ms]
+[2022-05-31T01:54:54.295Z] > git for-each-ref --sort -committerdate --format %(refname) %(objectname) %(*objectname) [16ms]
+[2022-05-31T01:54:54.295Z] > git remote --verbose [5ms]
+[2022-05-31T01:54:54.314Z] > git config --get commit.template [8ms]
+[2022-05-31T01:54:54.818Z] > git show --textconv :app.json [52ms]
+[2022-05-31T01:54:54.818Z] > git show --textconv :AppComponents.js [41ms]
+[2022-05-31T01:54:54.818Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/support-decisions/AppComponents.js [16ms]
+[2022-05-31T01:54:54.819Z] > git ls-files --stage -- /home/ever/Desktop/dev/apps/support-decisions/app.json [30ms]
+[2022-05-31T01:54:54.831Z] > git check-ignore -v -z --stdin [17ms]
+[2022-05-31T01:54:54.832Z] > git cat-file -s 585ffbec9008d5dc4949080a83f494a3b15ac632 [3ms]

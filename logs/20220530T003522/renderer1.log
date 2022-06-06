@@ -1,0 +1,23 @@
+[2022-05-30 00:35:24.080] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.filesToScan'. This property is already registered.
+[2022-05-30 00:35:24.081] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.showNotifications'. This property is already registered.
+[2022-05-30 00:35:24.082] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.doubleQuotes'. This property is already registered.
+[2022-05-30 00:35:24.082] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.spaceBetweenBraces'. This property is already registered.
+[2022-05-30 00:35:24.082] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.autoComplete'. This property is already registered.
+[2022-05-30 00:35:27.037] [renderer1] [error] SyntaxError: Unexpected token � in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at I.$getPassword (vscode-file://vscode-app/snap/code/97/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:49505)
+[2022-05-30 00:35:27.143] [renderer1] [error] Cannot read properties of undefined (reading 'isGitRepository'): TypeError: Cannot read properties of undefined (reading 'isGitRepository')
+    at changedFiles (/home/ever/.vscode/extensions/capaj.vscode-exports-autocomplete-0.5.4/lib/git-changed-files.js:4:14)
+    at /home/ever/.vscode/extensions/capaj.vscode-exports-autocomplete-0.5.4/lib/exports-map.js:50:9
+[2022-05-30 00:35:42.019] [renderer1] [error] RequestService#request (browser) - error https://vscodeexperiments.azureedge.net/experiments/vscode-experiments.json {}
+[2022-05-30 01:10:50.861] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.filesToScan'. This property is already registered.
+[2022-05-30 01:10:50.861] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.showNotifications'. This property is already registered.
+[2022-05-30 01:10:50.861] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.doubleQuotes'. This property is already registered.
+[2022-05-30 01:10:50.862] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.spaceBetweenBraces'. This property is already registered.
+[2022-05-30 01:10:50.862] [renderer1] [warning] [steoates.autoimport]: Cannot register 'autoimport.autoComplete'. This property is already registered.
+[2022-05-30 01:10:54.959] [renderer1] [error] Cannot read properties of undefined (reading 'isGitRepository'): TypeError: Cannot read properties of undefined (reading 'isGitRepository')
+    at changedFiles (/home/ever/.vscode/extensions/capaj.vscode-exports-autocomplete-0.5.4/lib/git-changed-files.js:4:14)
+    at /home/ever/.vscode/extensions/capaj.vscode-exports-autocomplete-0.5.4/lib/exports-map.js:50:9
+[2022-05-30 01:10:55.021] [renderer1] [error] SyntaxError: Unexpected token � in JSON at position 0
+    at JSON.parse (<anonymous>)
+    at I.$getPassword (vscode-file://vscode-app/snap/code/97/usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1712:49505)
